@@ -1,0 +1,2 @@
+An automated teller machine (ATM) is an electronic banking outlet that allows customers to complete basic transactions without the aid of a branch representative or teller. Anyone with a debit card can access cash at most ATMs.
+Customers can use them to withdraw cash, check their bank balance or get a printed balance statement. Some ATMs also allow customers to make cash deposits and move funds between accounts.
